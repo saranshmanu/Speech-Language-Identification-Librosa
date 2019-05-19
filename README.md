@@ -12,6 +12,8 @@ The method involves using Spectogram to analyse the spacial temporal data of the
 <li> Spanish
 </ul>
 
+![Screenshot](images/spectrogram.png)
+
 ### Long Short Term Memory (RNN)
 Recurrent networks can be used to study the sequential data of the speech samples and I yet have to try them
 
