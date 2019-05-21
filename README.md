@@ -12,7 +12,11 @@ The method involves using Spectogram to analyse the spacial temporal data of the
 <li> Spanish
 </ul>
 
+#### Spectrogram from the Speech
 ![Screenshot](images/spectrogram.png)
+
+#### Prediction from a sample audio clip
+![Screenshot](https://github.com/saranshmanu/Speech-Language-Identification-DRDO-Librosa/blob/master/images/CNN%20Prediction%20Output.png?raw=true)
 
 ### Long Short Term Memory (RNN)
 Recurrent networks can be used to study the sequential data of the speech samples and I yet have to try them
