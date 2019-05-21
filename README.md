@@ -2,6 +2,12 @@
 
 The project is a part of my internship and the research project at the Defence Research and Development Organisation - Scientific Analysis Group where I have to classify the speech audio samples in various languages spoken in India. The project will involve various techniques involving certain techniques to analyse the waveform, reduce the noise and use Machine Learning techniques to classify the audio clip.
 
+### What can we used to extract features from a audio source
+
+The audio signal is a three-dimensional signal in which three axes represent time, amplitude and frequency. Extraction of features is a very important part in analyzing and finding relations between different things. The data provided of audio cannot be understood by the models directly to convert them into an understandable format feature extraction is used. 
+
+![Screenshot](images/audio_signal.png)
+
 ## Techniques used to analyse the model
 
 ### Convolutional Neural Network (CNN) - Classification based on spectrograms
@@ -16,7 +22,7 @@ The method involves using Spectogram to analyse the spacial temporal data of the
 ![Screenshot](images/spectrogram.png)
 
 #### Prediction from a sample audio clip
-![Screenshot](https://github.com/saranshmanu/Speech-Language-Identification-DRDO-Librosa/blob/master/images/CNN%20Prediction%20Output.png?raw=true)
+![Screenshot](images/cnn_prediction_output.png)
 
 ### Long Short Term Memory (RNN) - Classification based on raw wave forms
 Recurrent networks can be used to study the sequential data of the speech samples and I yet have to try them
