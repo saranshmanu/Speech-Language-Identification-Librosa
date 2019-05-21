@@ -1,0 +1,3 @@
+*.flac
+*.pth
+.ipynb_checkpoints/
