@@ -4,7 +4,7 @@ The project is a part of my internship and the research project at the Defence R
 
 ## Techniques used to analyse the model
 
-### Convolutional Neural Network (CNN)
+### Convolutional Neural Network (CNN) - Classification based on spectrograms
 The method involves using Spectogram to analyse the spacial temporal data of the sound sample with the help of Librosa to generate images of the Spectogram graph and saving them. CNNs were used after the graphs were generated in the form of the images to study the patterns to classify the languages in the following categories.
 <ul>
 <li> English
@@ -18,7 +18,7 @@ The method involves using Spectogram to analyse the spacial temporal data of the
 #### Prediction from a sample audio clip
 ![Screenshot](https://github.com/saranshmanu/Speech-Language-Identification-DRDO-Librosa/blob/master/images/CNN%20Prediction%20Output.png?raw=true)
 
-### Long Short Term Memory (RNN)
+### Long Short Term Memory (RNN) - Classification based on raw wave forms
 Recurrent networks can be used to study the sequential data of the speech samples and I yet have to try them
 
 ### Frameworks
