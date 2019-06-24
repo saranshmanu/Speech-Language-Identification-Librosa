@@ -25,7 +25,7 @@ The method involves using Spectogram to analyse the spacial temporal data of the
 <p align="center"><img src = "images/cnn_prediction_output.png"></p>
 
 ### Long Short Term Memory (RNN) - Classification based on raw wave forms
-Recurrent networks can be used to study the sequential data of the speech samples and I yet have to try them
+Recurrent networks can be used to study the sequential data of the speech samples but better results were found when using CNN
 
 ### Frameworks
 <ul>
